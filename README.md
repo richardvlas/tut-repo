@@ -6,7 +6,7 @@ List of *things*
 - next 
 - last
 
-[ ] - Check item 1 
+- [ ] - Check item 1 
 
-[x] - Check item 1 
+- [x] - Check item 1 
 
